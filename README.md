@@ -1,6 +1,7 @@
 # Pong-Game
 
 Game developed in Java while learning this programming language.
+![game image](https://github.com/Marcelofcdantas/Pong-Game/blob/main/imagePong.png?raw=true)
 
 #How to play:
 
